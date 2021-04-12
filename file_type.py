@@ -23,7 +23,7 @@ def count(word_list):
 input_dir = str(input('Ingrese el directorio a inspeccionar: '))
 
 #ejecucion del comando
-p = subprocess.run("file -b " + input_dir + "/* | egrep -w 'script|source' | awk {'print $1'}",
+p = subprocess.run("file -b " + input_dir + "/* | grep script | awk {'print $1'}",
 	stdout=subprocess.PIPE,
 	shell=True)
 
