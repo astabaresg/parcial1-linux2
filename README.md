@@ -1,4 +1,6 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
+
+
 # Título del Proyecto
 
 _*Parcial 1 de ADMINISTRACIÓN SISTEMAS OPERATIVOS GNU/LINUX II*_
@@ -14,3 +16,15 @@ Este script realiza lo siguiente:
 ## Construido con 🛠️
 
 * [Python](https://www.python.org/) - Lenguaje de programación usado
+
+## Autores ✒️
+
+* **Alvaro Sebastián Tabares Gaviria**
+* **Juan Felipe Tapasco Henao** 
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia [Creative Commons Attribution 4.0 International License][cc-by].
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
